@@ -19,3 +19,10 @@ cd ios
 pod install
 
 npm start or npx react-native run-ios --simulator="iPhone 13 Pro Max"
+
+
+
+### Demo
+
+Uploading Screen Recording 2023-02-17 at 11.20.06 AM.mp4…
+
