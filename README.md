@@ -1,14 +1,14 @@
 # Learning_app
 
 
-#Online Learning App
+# Online Learning App
 
 
-###React Native UI | Animation | Custom Bottom Tab Navigator
+### React Native UI | Animation | Custom Bottom Tab Navigator
 
 
 
-#How to use the code :-
+# How to use the code :-
 
 git clone url
 
