@@ -31,3 +31,6 @@ Uploading Screen Recording 2023-02-17 at 11.20.06 AM.mp4…
 ## Please feel free to contact me if you need any help 
 
 https://surendraedigaweb.web.app/
+
+
+# If someone contribute on android side then it would be great ❤️ Becoz the app completely made on ios side
