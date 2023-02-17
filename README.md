@@ -24,7 +24,9 @@ npm start or npx react-native run-ios --simulator="iPhone 13 Pro Max"
 
 ### Demo
 
-Uploading Screen Recording 2023-02-17 at 11.20.06 AM.mp4…
+
+https://user-images.githubusercontent.com/106951672/219563478-393e8a5c-86cd-47fc-bb85-99eeabc37263.mp4
+
 
 
 
